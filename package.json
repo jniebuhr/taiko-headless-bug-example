@@ -1,0 +1,13 @@
+{
+  "$schema": "http://json.schemastore.org/package",
+  "name": "gauge-ts-taiko-types-example",
+  "version": "0.0.1",
+  "description": "A simple project testing Gauge, gauge-ts using Taiko TypeScript typings",
+  "dependencies": {
+    "gauge-ts": "0.0.5",
+    "taiko": "1.0.13"
+  },
+  "devDependencies": {
+    "@types/node": "latest"
+  }
+}
